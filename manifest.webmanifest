@@ -1,0 +1,19 @@
+{
+  "name": "PonsKey Market — Live rooms",
+  "short_name": "PonsKey Market",
+  "description": "Live rooms with a price signal.",
+  "id": "/",
+  "start_url": "/",
+  "scope": "/",
+  "display_override": ["standalone"],
+  "display": "standalone",
+  "handle_links": "preferred",
+  "launch_handler": {
+    "client_mode": "navigate-existing"
+  },
+  "background_color": "#24104f",
+  "theme_color": "#24104f",
+  "icons": [
+    { "src": "/PonsKey Market-icon-500.png", "sizes": "500x500", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
